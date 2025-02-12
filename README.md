@@ -26,7 +26,7 @@ Please see the screenshots below:
 ![complete readme bottom](utils/assets/images/complete%20readme%20bottom.png)
 
 ## License
-This project is licensed under the None License. See the [license link]() for more details.
+This project is not licensed.
 
 ## Contributing
 n/a
