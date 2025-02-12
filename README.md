@@ -19,6 +19,11 @@ Please see the video below:
 
 ## Usage
 Please see the screenshots below:
+![node index](utils/assets/images/node%20index.js%20.png)
+![answering questions](utils/assets/images/answering%20questions.png)
+![completed prompt](utils/assets/images/completed%20prompt.png)
+![complete readme top](utils/assets/images/complete%20readme%20top.png)
+![complete readme bottom](utils/assets/images/complete%20readme%20bottom.png)
 
 ## License
 This project is licensed under the None License. See the [license link]() for more details.
