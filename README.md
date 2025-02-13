@@ -16,6 +16,7 @@ This project creates unique README files based on the input of the user, saving 
 
 ## Installation
 Please see the video below:
+https://drive.google.com/file/d/1ij4K5ABLCmF9HXP9NXgHxGD4kjpDPpQ-/view?usp=sharing
 
 ## Usage
 Please see the screenshots below:
